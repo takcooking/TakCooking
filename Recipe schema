@@ -1,0 +1,48 @@
+json
+{
+  "@context": "http://schema.org/",
+  "@type": "Recipe",
+  "name": "Tomato Omelette",
+  "description": "A delicious and easy omelette made with tomatoes, eggs, and spices.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Omelet_with_spinach_and_cheese.jpg/1200px-Omelet_with_spinach_and_cheese.jpg",
+  "ingredients": [
+    "8 tomatoes",
+    "1 large onion",
+    "2 cloves garlic (optional)",
+    "4 eggs",
+    "1 bell pepper (optional)",
+    "Salt",
+    "Black pepper",
+    "Turmeric",
+    "Curry powder (optional)",
+    "Thyme (optional)",
+  ],
+  "instructions": [
+    "Peel and chop the onion. Heat a pan over medium heat and add some oil. Once the oil is hot, add the chopped onion and sauté until transparent.",
+    "If using garlic, grate it and add it to the pan. Sauté for a few minutes until fragrant.",
+    "Add turmeric and curry powder to the pan and sauté for a minute.",
+    "Peel and dice the tomatoes and add them to the pan. Sauté for a few minutes. Then, cover the pan, reduce the heat to medium-low, and let the tomatoes release their juice.",
+    "Let the tomatoes break down and the mixture become a sauce. You can add pureed tomatoes instead of diced tomatoes. If you have less tomatoes than the recipe calls for, you can sauté tomato paste before adding the tomatoes to bring more tomato flavor to your dish.",
+    "If using bell pepper, chop it finely and add it to the pan. Sauté until soft and cooked.",
+    "When the tomatoes are soft and creamy, crack the eggs over them and gently stir until scrambled. You can also crack the eggs in a small bowl and beat them until frothy, then add them to the pan and stir. This will give you a more uniform look. You can also crack some eggs on the omelette and leave them on top to cook whole.",
+    "Add salt, black pepper, and thyme and stir frequently until the eggs are cooked to your desired doneness.",
+    "Serve hot with flatbread or other accompaniments of your choice.",
+  ],
+  "nutrition": {
+    "servingSize": "1 serving",
+    "calories": "300",
+    "fat": "10 g",
+    "carbohydrates": "20 g",
+    "protein": "15 g",
+  },
+  "prepTime": "10 minutes",
+  "cookTime": "15 minutes",
+  "totalTime": "25 minutes",
+  "yield": "4 servings",
+  "cuisine": "Indian",
+  "author": {
+    "@type": "Person",
+    "name": "Tom"
+  }
+}
+
